@@ -1,7 +1,7 @@
 
 /*
  * 
- * 
+ *  zmena pro git
 Neni stejna knihovna pro LAN(ENC28J60) a WIFI(ESP32) proto je rozdvojeni programu a pak zase spojeni...
 Ota WEB nejde na LAN je jen psany pro wifi...
 */
